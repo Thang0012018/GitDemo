@@ -1,0 +1,1 @@
+print("khong duoc khoc")
